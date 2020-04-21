@@ -16,7 +16,8 @@ img{
 	display: block;
   	margin-left: auto;
   	margin-right: auto;
-  	height: 40%;
+  	max-height: 30%;
+  	width: auto;
 }
 
 p{
