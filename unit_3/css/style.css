@@ -1,13 +1,13 @@
 body{
 	
-	background: url(/images/empanadita.jpg);
+	background: url(images/empanadita.jpg);
 	background-size: cover;
 	color: #E8E5CF;
 }
 h1{
-	text-align: center
+	text-align: center;
 }
 #slogan{
-	text-align: center
+	text-align: center;
 	font-style: italic;
 }
