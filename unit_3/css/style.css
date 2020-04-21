@@ -19,4 +19,7 @@ img{
   	height: 400px;
   	width: 50%;
 }
-
+ul{
+	text-align: center;
+	list-style-type: none;
+}
