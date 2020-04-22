@@ -18,8 +18,10 @@ img{
 	display: block;
   	margin-left: auto;
   	margin-right: auto;
-  	height: 450px;
-  	width: 70%;
+  	height: 400px;
+  	width: 60%;
+  	padding-top: 25px;
+  	padding-bottom: 25px;
 }
 ul{
 	text-align: center;
