@@ -17,10 +17,10 @@ h1{
 }
 img{
 	display: block;
-  	margin-left: 10%;
+  	margin-left: 5%;
   	margin-right: auto;
   	height: 400px;
-  	width: 60%;
+  	width: auto;
   	padding-top: 25px;
   	padding-bottom: 25px;
 }
