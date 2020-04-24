@@ -8,11 +8,13 @@ h1{
 	text-align: center;
 	text-transform: uppercase;
 	font-style: bold;
+	font-family: sans-serif;
 }
 
 #slogan{
 	text-align: center;
 	font-style: italic;
+	font-family: sans-serif;
 }
 img{
 	display: block;
@@ -23,9 +25,14 @@ img{
   	padding-top: 25px;
   	padding-bottom: 25px;
 }
+
+p{
+	font-family: serif;
+}
 ul{
 	text-align: center;
 	list-style-type: none;
+	font-family: ;
 }
 
 #contact{
