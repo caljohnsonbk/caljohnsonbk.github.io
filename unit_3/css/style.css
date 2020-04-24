@@ -6,17 +6,16 @@ body{
 }
 
 h1{
+	font-family: 'Julius Sans One', sans-serif;
 	text-align: center;
 	text-transform: uppercase;
 	font-style: bold;
-
 }
 
-#slogan{
-	text-align: center;
-	font-style: italic;
-	
+h2{
+	font-family: 'Julius Sans One', sans-serif;
 }
+
 img{
 	display: block;
   	margin-left: auto;
@@ -27,13 +26,24 @@ img{
   	padding-bottom: 25px;
 }
 
+p{
+	font-family: 'Open Sans', sans-serif;
 }
+
 ul{
 	text-align: center;
 	list-style-type: none;
+	font-family: 'Open Sans', sans-serif;
+}
+
+#slogan{
+	text-align: center;
+	font-style: italic;
+	font-family: 'Julius Sans One', sans-serif;
 }
 
 #contact{
 	text-align: center;
 	font-style: bold;
+	font-family: 'Julius Sans One', sans-serif;
 }
