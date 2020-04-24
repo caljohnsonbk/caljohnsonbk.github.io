@@ -26,15 +26,16 @@ img{
 }
 
 p{
-	font-family: serif;
+	font-family: 'Open Sans', sans-serif;
 }
 ul{
 	text-align: center;
 	list-style-type: none;
-	font-family: ;
+	font-family: 'Open Sans', sans-serif;
 }
 
 #contact{
 	text-align: center;
 	font-style: bold;
+	font-family: 'Open Sans', sans-serif;
 }
