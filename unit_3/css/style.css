@@ -4,16 +4,15 @@ body{
 	background-color: #FFF;
 	color: #5B5863;
 	text-align: center;
+	font-family: Helvetica;
 }
 
 h1{
-	font-family: 'Julius Sans One', sans-serif;
 	text-transform: uppercase;
 	font-style: bold;
 }
 
 h2{
-	font-family: 'Julius Sans One', sans-serif;
 }
 
 img{
@@ -27,20 +26,16 @@ img{
 }
 
 p{
-	font-family: 'Open Sans', sans-serif;
 }
 
 ul{
 	list-style-type: none;
-	font-family: 'Open Sans', sans-serif;
 }
 
 #slogan{
 	font-style: italic;
-	font-family: 'Open Sans', sans-serif;
 }
 
 #contact{
 	font-style: bold;
-	font-family: 'Julius Sans One', sans-serif;
 }
