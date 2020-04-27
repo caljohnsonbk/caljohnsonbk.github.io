@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Abhaya+Libre|Julius+Sans+One|Marcellus|Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Abhaya+Libre|Averia+Serif+Libre:400,700|Julius+Sans+One|Marcellus+SC&display=swap');
 
 body{
 	background-color: #FFF;
@@ -9,13 +9,13 @@ body{
 }
 
 h1{
-	font-family: 'Julius Sans One', sans-serif;
+	font-family: 'Marcellus SC', serif;
 	text-transform: uppercase;
 	font-style: bold;
 }
 
 h2{
-	font-family: 'Julius Sans One', sans-serif;
+	font-family: 'Marcellus SC', serif;
 	font-weight: bold;
 	margin-bottom: 5px;
 }
