@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Abhaya+Libre|Averia+Serif+Libre:400,700|Julius+Sans+One|Marcellus+SC&display=swap');
+
+body{
+	background-color: #FFF;
+	color: #5B5863;
+	text-align: center;
+	font-size: 18px;
+	line-height: 1.5em;
+}
+
+h1{
+	font-family: 'Marcellus SC', serif;
+	text-transform: uppercase;
+	font-style: bold;
+}
+
+h2{
+	font-family: 'Marcellus SC', serif;
+	font-weight: bold;
+	margin-bottom: 5px;
+}
+
+img{
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	height: auto;
+  	width: 50%;
+  	padding-top: 15px;
+  	padding-bottom: 15px;
+}
+
+p{
+	font-family: 'Abhaya Libre', serif;
+}
+
+ul{
+	list-style-type: none;
+	font-family: 'Abhaya Libre', serif;
+}
+
+#slogan{
+	font-family: 'Abhaya Libre', serif;
+}
+
+#contact{
+	font-weight: 900;
+	font-family: 'Marcellus SC', serif;
+}
