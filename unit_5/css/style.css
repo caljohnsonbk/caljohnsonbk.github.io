@@ -22,6 +22,10 @@ h2{
 	margin-bottom: 5px;
 }
 
+h3{
+
+}
+
 img{
 	display: block;
   	margin-left: auto;
@@ -49,7 +53,7 @@ li{
 #logo{
 	display: inline;
 	height: 15px;
-	width:; auto;
+	width: auto;
 }
 
 #slogan{
