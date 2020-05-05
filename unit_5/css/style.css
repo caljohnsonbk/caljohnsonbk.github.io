@@ -8,6 +8,8 @@ body{
 	line-height: 1.5em;
 }
 
+
+
 h1{
 	font-family: 'Marcellus SC', serif;
 	text-transform: uppercase;
@@ -42,6 +44,12 @@ ul{
 li{
 	display: inline;
 	font-family: "Abhaya Libre", serif;
+}
+
+#logo{
+	display: inline;
+	height: 15px;
+	width:; auto;
 }
 
 #slogan{
