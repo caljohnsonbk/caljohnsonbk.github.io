@@ -39,6 +39,11 @@ ul{
 	font-family: 'Abhaya Libre', serif;
 }
 
+li{
+	display: inline;
+	font-family: "Abhaya Libre", serif;
+}
+
 #slogan{
 	font-family: 'Abhaya Libre', serif;
 }
