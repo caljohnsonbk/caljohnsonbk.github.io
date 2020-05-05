@@ -48,6 +48,7 @@ ul{
 li{
 	display: inline;
 	font-family: "Abhaya Libre", serif;
+	font-size: 18px;
 }
 
 #logo{
@@ -69,7 +70,7 @@ header {
     background-color: #FFED74;
     border: 1px black solid;
     padding: 20px;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 1.5em;
 }
 
