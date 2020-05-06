@@ -8,7 +8,26 @@ body{
 	line-height: 1.5em;
 }
 
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    line-height: 1.5em;
+}
 
+nav{
+	background-color: #E8C66A;
+}
+
+section{
+	background-color: #FFE2B8;
+}
+
+footer{
+	background-color: #FF957E
+}
 
 h1{
 	font-family: 'Marcellus SC', serif;
@@ -20,10 +39,6 @@ h2{
 	font-family: 'Marcellus SC', serif;
 	font-weight: bold;
 	margin-bottom: 5px;
-}
-
-h3{
-
 }
 
 img{
@@ -77,23 +92,10 @@ li{
 	font-family: 'Marcellus SC', serif;
 }
 
-header {
-    background-color: #FFED74;
-    border: 1px black solid;
-    padding: 20px;
-    margin-bottom: 20px;
-    font-size: 16px;
+#opening_hours{
+	font-size: 16px;
     line-height: 1.5em;
+    font-family: 'Abhaya Libre', serif;
+	padding: 15px;
 }
 
-nav{
-	background-color: #E8C66A;
-}
-
-section{
-	background-color: #FFE2B8;
-}
-
-footer{
-	background-color: #FF957E
-}
