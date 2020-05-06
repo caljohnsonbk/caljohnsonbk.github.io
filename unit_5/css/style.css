@@ -23,10 +23,14 @@ nav{
 
 section{
 	background-color: #FFE2B8;
+	padding: 20px;
+    margin-bottom: 20px;
 }
 
 footer{
 	background-color: #FF957E
+	padding: 20px;
+    margin-bottom: 20px;
 }
 
 h1{
@@ -70,6 +74,12 @@ li{
 	display: inline;
 	height: 75px;
 	width: auto;
+}
+
+#homepage{
+	background-color: #FFE2B8;
+	padding: 20px;
+    margin-bottom: 20px;	
 }
 
 #hero{	
