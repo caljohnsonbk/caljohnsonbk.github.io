@@ -44,3 +44,11 @@
 	float: left;
 	width: 30%;
 }
+
+.gallery_img{
+	background-color: #e55b88;
+	border: 1px black solid;
+	padding: 20px;
+	float:left;
+	width: 50%;
+}
