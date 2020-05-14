@@ -52,15 +52,9 @@
 	width: 30%;
 }
 
-ul{
-	list-style: none;
-}
-
-li{
-	background-color: #e55b88;
-	float:left;
-}
-
 .gallery_img{
-	width:42%;
+	width:40%;
+	margin-right: auto;
+	margin-left: auto;
+	float: left;
 }
