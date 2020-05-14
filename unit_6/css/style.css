@@ -14,7 +14,6 @@
 	margin-left: auto;
 	margin-right: auto;
 }
-
 #our_story{
 	background-color: #ffb7cf;
 	border: 1px black solid;
@@ -56,7 +55,7 @@
 .gallery_img{
 	background-color: #e55b88;
 	border: 1px black solid;
-	padding: 20px;
+	padding: 5%;
 	float:left;
-	width: 50%;
+	width: 40%;
 }
