@@ -13,7 +13,7 @@
 	padding: 20px;
 }
 
-.img_left{
+#img_ourstory{
 	background-color: #e582a2;
 	border: 1px black solid;
 	padding: 20px;
@@ -21,7 +21,7 @@
 	width: 62%
 }
 
-.article_right{
+#article_ourstory{
 	background-color: #e55b88;
 	border: 1px black solid;
 	padding: 20px;
