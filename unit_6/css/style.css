@@ -56,9 +56,11 @@ ul{
 	list-style: none;
 }
 
-.gallery_img{
+li{
 	background-color: #e55b88;
-	padding: 5%;
 	float:left;
-	width: 40%;
+}
+
+.gallery_img{
+	width:40%;
 }
