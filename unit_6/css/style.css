@@ -1,0 +1,21 @@
+#our_story{
+	background-color: #ffb7cf;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left{
+	background-color: #e582a2;
+	border: 1px black solid;
+	padding: 20px;
+	float: left;
+	width: 62%
+}
+
+#right{
+	background-color: #e55b88;
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 30%;
+}
