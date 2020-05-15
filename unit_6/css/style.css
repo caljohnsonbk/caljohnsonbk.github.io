@@ -1,6 +1,7 @@
 #logo{
-	height:15px;
+	height:75px;
 	width: auto;
+	display: block;
 	float:left;
 }
 
@@ -10,6 +11,7 @@
 
 ul{
 	list-style: none;
+	display: block;
 	float:right;
 }
 
