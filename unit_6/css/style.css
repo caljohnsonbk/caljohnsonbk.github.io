@@ -1,6 +1,12 @@
 ul{
 	list-style: none;
-	float:left;
+	float:right;
+}
+
+ul > li{
+	float: left;
+	text-align: center;
+	padding: 2px;
 }
 
 .clearfix{
