@@ -30,6 +30,7 @@
 	background-color: #ffb7cf;
 	border: 5px white solid;
 	padding: 20px;
+	display: inline-block;
 }
 
 .clearfix:after{
