@@ -1,7 +1,7 @@
 .clearfix{
-	background-color: blue;
-	border: 2px white solid;
-	margin-bottom: 2px;
+	background-color: #ffb7cf;
+	border: 1px black solid;
+	padding: 20px;
 }
 
 .clearfix:after{
@@ -19,11 +19,6 @@
 	align-content: center;
 	margin-left: auto;
 	margin-right: auto;
-}
-#our_story{
-	background-color: #ffb7cf;
-	border: 1px black solid;
-	padding: 20px;
 }
 
 .img_left{
