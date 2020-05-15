@@ -15,7 +15,7 @@
 
 .nav{
 	text-align: center;
-	list-style: none;
+	list-style-type: none;
 	display: block;
 	float:right;
 }
@@ -24,6 +24,7 @@
 	float: left;
 	text-align: center;
 	padding: 10px;
+	display: inline;
 }
 
 .clearfix{
