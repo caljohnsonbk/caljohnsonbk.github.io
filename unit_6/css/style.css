@@ -5,14 +5,14 @@
 	float:left;
 }
 
-ul{
+.nav{
 	text-align: center;
 	list-style: none;
 	display: block;
 	float:right;
 }
 
-ul > li{
+.nav > li{
 	float: left;
 	text-align: center;
 	padding: 10px;
