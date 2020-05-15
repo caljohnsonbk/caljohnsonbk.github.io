@@ -1,6 +1,7 @@
 .clearfix{
 	background-color: blue;
 	border: 2px white solid;
+	margin-bottom: 2px;
 }
 
 .clearfix:after{
