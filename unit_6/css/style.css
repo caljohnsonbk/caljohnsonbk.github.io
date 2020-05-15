@@ -16,7 +16,7 @@
 .nav{
 	text-align: center;
 	list-style: none;
-	display: inline;
+	display: block;
 	float:right;
 }
 
@@ -30,7 +30,7 @@
 	background-color: #ffb7cf;
 	border: 5px white solid;
 	padding: 20px;
-	display: inline-block;
+	display: block;
 }
 
 .clearfix:after{
@@ -61,11 +61,12 @@
 .article_right{
 	background-color: #e55b88;
 	border: 1px black solid;
-	padding: 20px;
+	padding: 5%;
 	float: right;
 	width: 30%;
-	height: 50%;
-	margin: auto;
+	height: auto;
+	margin-top: 25%;
+	margin-bottom:25%;
 }
 
 .img_right{
