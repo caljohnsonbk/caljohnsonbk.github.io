@@ -1,3 +1,8 @@
+ul{
+	list-style: none;
+	float:left;
+}
+
 .clearfix{
 	background-color: #ffb7cf;
 	border: 1px black solid;
