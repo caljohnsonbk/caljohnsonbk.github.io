@@ -1,15 +1,12 @@
 #logo{
-	height:75px;
+	height:100px;
 	width: auto;
 	display: block;
 	float:left;
 }
 
-#opening_hours{
-	float:right;
-}
-
 ul{
+	text-align: center;
 	list-style: none;
 	display: block;
 	float:right;
