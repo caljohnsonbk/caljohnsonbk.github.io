@@ -14,17 +14,15 @@
 }
 
 .nav{
-	text-align: center;
 	list-style-type: none;
-	display: block;
-	float:right;
 }
 
 .nav > li{
 	float: left;
 	text-align: center;
 	padding: 10px;
-	display: inline;
+	display: block;
+	text-decoration: none;
 }
 
 .clearfix{
