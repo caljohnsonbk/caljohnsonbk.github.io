@@ -54,6 +54,7 @@
 	width: 62%
 	height: auto
 	margin: 2%;
+	display: block;
 }
 
 .article_right{
@@ -70,6 +71,7 @@
 	width: 62%
 	height: auto;
 	margin: 2%;
+	display: block;
 }
 
 .article_left{
