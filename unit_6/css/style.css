@@ -99,4 +99,9 @@
 	display: block;
 	float: right;
 	list-style-type: none;
+	margin:none;
+}
+
+a{
+	text-transform: none;
 }
