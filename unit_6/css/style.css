@@ -89,6 +89,11 @@
 	float: left;
 }
 
+#copyright{
+	display:block;
+	float: left;
+}
+
 .nav_footer{
 	display: block;
 	float: right;
