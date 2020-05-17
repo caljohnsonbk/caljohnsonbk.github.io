@@ -67,6 +67,9 @@
 	width: 30%;
 	height: auto;
 	margin: 1%;
+	display: block;
+	padding-top: 7%;
+	padding-bottom: 7%;
 }
 
 .img_right{
@@ -84,6 +87,8 @@
 	width: 30%;
 	margin: 1%;
 	display: block;
+	padding-bottom: 7%;
+	padding-top: 7%;
 }
 
 .gallery_img{
