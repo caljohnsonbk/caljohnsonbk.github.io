@@ -50,6 +50,7 @@
 	background-color: #e582a2;
 	float: left;
 	width: 62%
+	margin: 2%;
 }
 
 .article_right{
@@ -57,18 +58,21 @@
 	float: right;
 	width: 30%;
 	height: auto;
+	margin: 2%;
 }
 
 .img_right{
 	background-color: #e582a2;
 	float: right;
 	width: 62%
+	margin: 2%;
 }
 
 .article_left{
 	background-color: #e55b88;
 	float: left;
 	width: 30%;
+	margin: 2%;
 }
 
 .gallery_img{
