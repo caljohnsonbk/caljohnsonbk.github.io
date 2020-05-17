@@ -51,8 +51,8 @@
 .img_left{
 	background-color: #e582a2;
 	float: left;
-	width: 62%
-	height: auto
+	width: 62%;
+	height: auto;
 	margin: 2%;
 	display: block;
 }
@@ -68,7 +68,7 @@
 .img_right{
 	background-color: #e582a2;
 	float: right;
-	width: 62%
+	width: 62%;
 	height: auto;
 	margin: 2%;
 	display: block;
