@@ -27,7 +27,7 @@
 .clearfix{
 	background-color: #ffb7cf;
 	border: 5px white solid;
-	padding: 20px;
+	padding: 10px;
 	display: block;
 }
 
@@ -53,7 +53,7 @@
 	float: left;
 	width: 62%;
 	height: auto;
-	margin: 2%;
+	margin: 1%;
 	display: block;
 }
 
@@ -62,7 +62,7 @@
 	float: right;
 	width: 30%;
 	height: auto;
-	margin: 2%;
+	margin: 1%;
 }
 
 .img_right{
@@ -70,7 +70,7 @@
 	float: right;
 	width: 62%;
 	height: auto;
-	margin: 2%;
+	margin: 1%;
 	display: block;
 }
 
@@ -78,7 +78,8 @@
 	background-color: #e55b88;
 	float: left;
 	width: 30%;
-	margin: 2%;
+	margin: 1%;
+	display: block;
 }
 
 .gallery_img{
