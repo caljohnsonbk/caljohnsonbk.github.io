@@ -93,6 +93,7 @@
 #copyright{
 	display:block;
 	float: left;
+	margin: none;
 }
 
 .nav_footer{
