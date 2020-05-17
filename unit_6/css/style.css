@@ -50,6 +50,7 @@
 	background-color: #e582a2;
 	float: left;
 	width: 62%
+	height: auto
 	margin: 2%;
 }
 
@@ -65,6 +66,7 @@
 	background-color: #e582a2;
 	float: right;
 	width: 62%
+	height: auto;
 	margin: 2%;
 }
 
