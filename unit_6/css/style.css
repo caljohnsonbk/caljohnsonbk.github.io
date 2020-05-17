@@ -49,16 +49,12 @@
 
 .img_left{
 	background-color: #e582a2;
-	border: 1px black solid;
-	padding: 20px;
 	float: left;
 	width: 62%
 }
 
 .article_right{
 	background-color: #e55b88;
-	border: 1px black solid;
-	padding: 5%;
 	float: right;
 	width: 30%;
 	height: auto;
@@ -66,20 +62,14 @@
 
 .img_right{
 	background-color: #e582a2;
-	border: 1px black solid;
-	padding: 20px;
 	float: right;
 	width: 62%
 }
 
 .article_left{
 	background-color: #e55b88;
-	border: 1px black solid;
-	padding: 20px;
 	float: left;
 	width: 30%;
-	height: 50%;
-	margin: auto;
 }
 
 .gallery_img{
