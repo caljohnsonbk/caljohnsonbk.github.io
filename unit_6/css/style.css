@@ -82,3 +82,9 @@
 	padding: 10px;
 	float: left;
 }
+
+.nav_footer{
+	display: block;
+	float: right;
+	list-style-type: none;
+}
