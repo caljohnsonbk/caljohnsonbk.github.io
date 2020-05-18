@@ -52,34 +52,26 @@ body{
 
 .img_left{
 	float: left;
-	width: 62%;
+	width: 50%;
 	display: block;
 }
 
 .article_right{
 	float: right;
-	width: 30%;
+	width: 50%;
 	display: block;
 }
 
 .img_right{
 	float: right;
-	width: 62%;
+	width: 50%;
 	display: block;
 }
 
 .article_left{
 	float: left;
-	width: 30%;
+	width: 50%;
 	display: block;
-}
-
-.gallery_img{
-	display:block;
-	align-content: center;
-	width:47%;
-	padding: 10px;
-	float: left;
 }
 
 #copyright{
