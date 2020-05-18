@@ -5,6 +5,10 @@ body{
 	font-size:18px;
 }
 
+header{
+	background-color: white;
+}
+
 h1{
 	font-family: 'Marcellus SC', serif;
 	text-transform: uppercase;
@@ -17,6 +21,10 @@ h2{
 }
 
 p{
+	font-family: 'Abhaya Libre', serif;
+}
+
+li{
 	font-family: 'Abhaya Libre', serif;
 }
 
