@@ -17,6 +17,10 @@ h1{
 	font-family: 'Marcellus SC', serif;
 	text-transform: uppercase;
 	font-weight: bold;
+	position: absolute;
+	right: 30px;
+	top: 450px;
+	background-color: rgba(179, 179, 179, .7);
 }
 
 h2{
@@ -83,13 +87,6 @@ li{
 	margin-left: auto;
 	margin-right: auto;
 	position: relative;
-}
-
-#name{
-	position: absolute;
-	right: 30px;
-	top: 450px;
-	background-color: rgba(179, 179, 179, .7);
 }
 
 .img_left{
