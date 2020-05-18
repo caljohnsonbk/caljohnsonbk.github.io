@@ -39,6 +39,7 @@ li{
 }
 
 #opening_hours{
+	font-size: .8em;
 	display: block;
 	margin: 0;
 	padding-top: 10px;
@@ -55,12 +56,11 @@ li{
 
 .nav_li{
 	float: left;
-	font-family: "Abhaya Libre", serif;
+	font-size: 1.3em;
 	text-align: center;
 	display: block;
 	text-decoration: none;
 	padding: 10px;
-	background: grey;
 }
 
 .clearfix{
