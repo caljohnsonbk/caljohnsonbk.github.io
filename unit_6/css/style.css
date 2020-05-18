@@ -82,6 +82,14 @@ li{
 	align-content: center;
 	margin-left: auto;
 	margin-right: auto;
+	position: relative;
+}
+
+#name{
+	position: absolute;
+	right: 30px;
+	top: 450px;
+	background-color: rgba(179, 179, 179, .7);
 }
 
 .img_left{
