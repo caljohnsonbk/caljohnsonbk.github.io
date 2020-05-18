@@ -1,15 +1,12 @@
 #logo{
-	height:100px;
-	width: auto;
+	width: 100px;
 	display: block;
 	float:left;
 }
 
 #opening_hours{
 	display: block;
-	height: 100px;
-	width: auto;
-	margin: none;
+	margin: 0;
 }
 
 #nav_header{
@@ -31,8 +28,6 @@
 
 .clearfix{
 	background-color: #ffb7cf;
-	border: 2px white solid;
-	padding: 5px;
 	display: block;
 }
 
@@ -57,8 +52,6 @@
 	background-color: #e582a2;
 	float: left;
 	width: 62%;
-	height: auto;
-	margin: 1%;
 	display: block;
 }
 
@@ -66,19 +59,13 @@
 	background-color: #e55b88;
 	float: right;
 	width: 30%;
-	height: auto;
-	margin: 1%;
 	display: block;
-	padding-top: 7%;
-	padding-bottom: 7%;
 }
 
 .img_right{
 	background-color: #e582a2;
 	float: right;
 	width: 62%;
-	height: auto;
-	margin: 1%;
 	display: block;
 }
 
@@ -86,10 +73,7 @@
 	background-color: #e55b88;
 	float: left;
 	width: 30%;
-	margin: 1%;
 	display: block;
-	padding-bottom: 7%;
-	padding-top: 7%;
 }
 
 .gallery_img{
@@ -103,14 +87,14 @@
 #copyright{
 	display:block;
 	float: left;
-	margin: none;
+	margin: 0;
 }
 
 #nav_footer{
 	display: block;
 	float: right;
 	list-style-type: none;
-	margin:none;
+	margin:0;
 }
 
 a{
