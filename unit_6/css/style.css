@@ -5,10 +5,6 @@ body{
 	font-size:18px;
 }
 
-header{
-	background-color: white;
-}
-
 footer{
 	background-color: white;
 }
@@ -71,6 +67,7 @@ li{
 
 .clearfix{
 	display: block;
+	border-bottom: 2px solid white;
 }
 
 .clearfix:after{
