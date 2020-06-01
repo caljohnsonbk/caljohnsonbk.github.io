@@ -15,12 +15,12 @@ h2{
 
 a{
 	text-decoration: none;
+	color: black;
 }
 
 .nav_li{
 	float: left;
 	font-size: 1.3em;
-	font-color: black;
 	text-align: center;
 	display: block;
 	text-decoration: none;
