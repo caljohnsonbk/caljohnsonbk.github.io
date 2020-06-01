@@ -1,4 +1,4 @@
-import url('https://fonts.googleapis.com/css?family=Abhaya+Libre|Averia+Serif+Libre:400,700|Julius+Sans+One|Marcellus+SC&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Abhaya+Libre|Averia+Serif+Libre:400,700|Julius+Sans+One|Marcellus+SC&display=swap');
 
 body{
 	background-color: #FFB30D;
@@ -62,6 +62,7 @@ a{
 
 #call{
 	text-align: center;
+	font-size: 1.5em;
 	margin: 0;
 }
 
