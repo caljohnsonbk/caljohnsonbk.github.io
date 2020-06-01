@@ -18,6 +18,29 @@ li{
 	font-family: 'Abhaya Libre', serif;
 }
 
+.nav_li{
+	float: left;
+	font-size: 1.3em;
+	text-align: center;
+	display: block;
+	text-decoration: none;
+	padding: 10px;
+}
+
+.clearfix{
+	display: block;
+	border-bottom: 2px solid white;
+}
+
+.clearfix:after{
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: "";
+	clear: both;
+	height: 0;
+}
+
 #logo{
 	width: 100px;
 	display: block;
@@ -40,27 +63,8 @@ li{
 	margin: 0;
 }
 
-.nav_li{
-	float: left;
-	font-size: 1.3em;
+#call{
 	text-align: center;
-	display: block;
-	text-decoration: none;
-	padding: 10px;
-}
-
-.clearfix{
-	display: block;
-	border-bottom: 2px solid white;
-}
-
-.clearfix:after{
-	visibility: hidden;
-	display: block;
-	font-size: 0;
-	content: "";
-	clear: both;
-	height: 0;
 }
 
 #homepage{
