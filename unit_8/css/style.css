@@ -18,6 +18,7 @@ a{
 .nav_li{
 	float: left;
 	font-size: 1.3em;
+	font-color: black;
 	text-align: center;
 	display: block;
 	text-decoration: none;
@@ -26,7 +27,6 @@ a{
 
 .clearfix{
 	display: block;
-	border-bottom: 2px solid white;
 }
 
 .clearfix:after{
@@ -48,7 +48,6 @@ a{
 	font-size: .8em;
 	display: block;
 	margin: 0;
-	padding-top: 10px;
 	float:left;
 }
 
@@ -62,6 +61,7 @@ a{
 
 #call{
 	text-align: center;
+	font-family: 'Marcellus SC', serif;
 	font-size: 1.5em;
 	margin: 0;
 }
