@@ -3,6 +3,7 @@ import url('https://fonts.googleapis.com/css?family=Abhaya+Libre|Averia+Serif+Li
 body{
 	background-color: #FFB30D;
 	font-size:18px;
+	font-family: 'Abhaya Libre', serif;
 }
 
 h2{
@@ -10,12 +11,8 @@ h2{
 	font-weight: bold;
 }
 
-p{
-	font-family: 'Abhaya Libre', serif;
-}
-
-li{
-	font-family: 'Abhaya Libre', serif;
+a{
+	text-decoration: none;
 }
 
 .nav_li{
@@ -42,7 +39,7 @@ li{
 }
 
 #logo{
-	width: 100px;
+	width: 60px;
 	display: block;
 	float:left;
 }
@@ -65,6 +62,7 @@ li{
 
 #call{
 	text-align: center;
+	margin: 0;
 }
 
 #homepage{
@@ -116,7 +114,6 @@ li{
 }
 
 #copyright{
-	font-family: "Abhaya Libre", serif;
 	display:block;
 	float: left;
 	margin: 0;
@@ -128,9 +125,4 @@ li{
 	float: right;
 	list-style-type: none;
 	margin:0;
-}
-
-a{
-	font-family: "Abhaya Libre", serif;
-	text-decoration: none;
 }
