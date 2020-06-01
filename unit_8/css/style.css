@@ -5,22 +5,6 @@ body{
 	font-size:18px;
 }
 
-footer{
-	background-color: white;
-}
-
-h1{
-	font-family: 'Marcellus SC', serif;
-	text-transform: uppercase;
-	font-weight: bold;
-	font-size: 2.5em;
-	position: absolute;
-	right: 15%;
-	top: 75%;
-	padding: 10px;
-	background-color: rgba(179, 179, 179, .7);
-}
-
 h2{
 	font-family: 'Marcellus SC', serif;
 	font-weight: bold;
@@ -79,13 +63,28 @@ li{
 	height: 0;
 }
 
+#homepage{
+	position: relative;
+}
+
 #hero{
-	width: 65%;
+	width: 64%;
 	display: block;
 	align-content: center;
 	margin-left: auto;
 	margin-right: auto;
-	position: relative;
+}
+
+#brand{
+	font-family: 'Marcellus SC', serif;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 2.5em;
+	position: absolute;
+	right: 18%;
+	top: 75%;
+	padding: 10px;
+	background-color: rgba(179, 179, 179, .7);
 }
 
 .img_left{
