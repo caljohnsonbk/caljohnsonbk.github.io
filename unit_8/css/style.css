@@ -1,0 +1,133 @@
+import url('https://fonts.googleapis.com/css?family=Abhaya+Libre|Averia+Serif+Libre:400,700|Julius+Sans+One|Marcellus+SC&display=swap');
+
+body{
+	background-color: #FFB30D;
+	font-size:18px;
+}
+
+footer{
+	background-color: white;
+}
+
+h1{
+	font-family: 'Marcellus SC', serif;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 2.5em;
+	position: absolute;
+	right: 15%;
+	top: 75%;
+	padding: 10px;
+	background-color: rgba(179, 179, 179, .7);
+}
+
+h2{
+	font-family: 'Marcellus SC', serif;
+	font-weight: bold;
+}
+
+p{
+	font-family: 'Abhaya Libre', serif;
+}
+
+li{
+	font-family: 'Abhaya Libre', serif;
+}
+
+#logo{
+	width: 100px;
+	display: block;
+	float:left;
+}
+
+#opening_hours{
+	font-size: .8em;
+	display: block;
+	margin: 0;
+	padding-top: 10px;
+	float:left;
+}
+
+#nav_header{
+	list-style-type: none;
+	display: block;
+	float: right;
+	padding-top:15px; 
+	margin: 0;
+}
+
+.nav_li{
+	float: left;
+	font-size: 1.3em;
+	text-align: center;
+	display: block;
+	text-decoration: none;
+	padding: 10px;
+}
+
+.clearfix{
+	display: block;
+	border-bottom: 2px solid white;
+}
+
+.clearfix:after{
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: "";
+	clear: both;
+	height: 0;
+}
+
+#hero{
+	width: 65%;
+	display: block;
+	align-content: center;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+}
+
+.img_left{
+	float: left;
+	width: 50%;
+	display: block;
+}
+
+.article_right{
+	float: right;
+	width: 50%;
+	display: block;
+}
+
+.img_right{
+	float: right;
+	width: 50%;
+	display: block;
+}
+
+.article_left{
+	float: left;
+	width: 50%;
+	display: block;
+}
+
+#copyright{
+	font-family: "Abhaya Libre", serif;
+	display:block;
+	float: left;
+	margin: 0;
+	padding: 10px;
+}
+
+#nav_footer{
+	display: block;
+	float: right;
+	list-style-type: none;
+	margin:0;
+}
+
+a{
+	font-family: "Abhaya Libre", serif;
+	text-decoration: none;
+}
