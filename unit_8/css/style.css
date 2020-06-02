@@ -6,15 +6,7 @@ body{
 	font-family: 'Abhaya Libre', serif;
 }
 
-header{
-	position: fixed;
-	top: 0;
-	width: 100%;
-	background-color: #FFB30D;
-}
-
 main{
-	margin-top: 60px;
 	margin-bottom: 50px;
 }
 
