@@ -20,6 +20,8 @@ a{
 
 footer{
 	position: fixed;
+	bottom: 0;
+	width: 100%
 }
 
 .clearfix{
@@ -39,6 +41,7 @@ footer{
 	font-size: 1.3em;
 	text-align: center;
 	display: block;
+	float: left;
 	text-decoration: none;
 	padding: 10px;
 }
@@ -83,6 +86,7 @@ footer{
 #nav_header{
 	list-style-type: none;
 	margin: 0;
+	display: block;
 }
 
 #call{
