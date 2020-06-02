@@ -18,15 +18,6 @@ a{
 	color: black;
 }
 
-.nav_li{
-	float: left;
-	font-size: 1.3em;
-	text-align: center;
-	display: block;
-	text-decoration: none;
-	padding: 10px;
-}
-
 .clearfix{
 	display: block;
 }
@@ -38,6 +29,15 @@ a{
 	content: "";
 	clear: both;
 	height: 0;
+}
+
+.nav_li{
+	float: left;
+	font-size: 1.3em;
+	text-align: center;
+	display: block;
+	text-decoration: none;
+	padding: 10px;
 }
 
 #header_brand{
