@@ -167,3 +167,21 @@ footer{
 		width: 75%;
 	}
 }
+
+@media only screen and (max-width: 1500px){
+	#hero{
+		width: 80%
+	}
+	.nav_li{
+		font-size: 1.7em;
+	}
+	#call_footer{
+		font-size:1.7em;
+	}
+	#address{
+		font-size: 1.3em;
+	}
+	#copyright{
+		font-size: 1em;
+	}
+}
