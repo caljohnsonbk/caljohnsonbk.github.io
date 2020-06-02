@@ -6,7 +6,15 @@ body{
 	font-family: 'Abhaya Libre', serif;
 }
 
+header{
+	position: fixed;
+	top: 0;
+	width: 100%;
+	background-color: #FFB30D;
+}
+
 main{
+	margin-top: 50px;
 	margin-bottom: 50px;
 }
 
@@ -93,7 +101,6 @@ footer{
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
-	background-color: rgba(179, 179, 179, .7);
 	text-align: center;
 	border-top: 1px solid black;
 	border-bottom: 1px solid black;
