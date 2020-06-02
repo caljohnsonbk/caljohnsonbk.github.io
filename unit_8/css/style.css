@@ -93,6 +93,7 @@ footer{
 	list-style-type: none;
 	margin: 0;
 	display: block;
+	background-color: rgba(179, 179, 179, .7);
 }
 
 #call{
