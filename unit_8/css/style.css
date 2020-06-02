@@ -159,7 +159,7 @@ footer{
 	margin:0;
 }
 
-@media only screen and (max-width: 1500px) {
+@media only screen and (max-width: 1515px) {
 	body{
 		font-size: 16px;
 	}
@@ -194,7 +194,19 @@ footer{
 }
 
 @media only screen and (max-width: 1220px){
+	.nav_li{
+		padding: 15px;
+	}
+	#header_brand{
+		font-size: 2em;
+	}
 	#hero{
-		width: 85%;
+		width: 95%;
+	}
+}
+
+@media only screen and (max-width: 1030px){
+	#hero{
+		width: 100%;
 	}
 }
