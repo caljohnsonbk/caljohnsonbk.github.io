@@ -40,6 +40,30 @@ a{
 	padding: 10px;
 }
 
+.img_left{
+	float: left;
+	width: 50%;
+	display: block;
+}
+
+.article_right{
+	float: right;
+	width: 50%;
+	display: block;
+}
+
+.img_right{
+	float: right;
+	width: 50%;
+	display: block;
+}
+
+.article_left{
+	float: left;
+	width: 50%;
+	display: block;
+}
+
 #header_brand{
 	width: 60px;
 	display: block;
@@ -88,30 +112,6 @@ a{
 	top: 75%;
 	padding: 10px;
 	background-color: rgba(179, 179, 179, .7);
-}
-
-.img_left{
-	float: left;
-	width: 50%;
-	display: block;
-}
-
-.article_right{
-	float: right;
-	width: 50%;
-	display: block;
-}
-
-.img_right{
-	float: right;
-	width: 50%;
-	display: block;
-}
-
-.article_left{
-	float: left;
-	width: 50%;
-	display: block;
 }
 
 #menu{
