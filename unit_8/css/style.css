@@ -118,6 +118,21 @@ a{
 	list-style-type: none;
 }
 
+#call_footer{
+	text-align: center;
+	margin: 0;
+}
+
+#address{
+	text-align: center;
+	margin: 0;
+}
+
+#copyright{
+	text-align: center;
+	margin: 0;
+}
+
 #nav_footer{
 	display: block;
 	float: right;
