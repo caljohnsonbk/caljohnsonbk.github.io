@@ -124,8 +124,8 @@ footer{
 	font-weight: bold;
 	font-size: 2.5em;
 	position: absolute;
-	right: 15%;
-	top: 75%;
+	right: 10%;
+	top: 70%;
 	padding: 10px;
 	background-color: rgba(179, 179, 179, .7);
 }
@@ -157,4 +157,13 @@ footer{
 	float: right;
 	list-style-type: none;
 	margin:0;
+}
+
+@media only screen and (max-width: 1332px) {
+	body{
+		font-size: 16px;
+	}
+	#hero{
+		width: 70%;
+	}
 }
