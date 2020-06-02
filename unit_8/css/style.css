@@ -65,9 +65,9 @@ a{
 }
 
 #header_brand{
-	width: 60px;
 	display: block;
 	float:left;
+	margin:0;
 }
 
 #opening_hours{
