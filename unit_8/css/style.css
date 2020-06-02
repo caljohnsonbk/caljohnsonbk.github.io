@@ -50,14 +50,11 @@ a{
 	font-size: .8em;
 	display: block;
 	margin: 0;
-	float:left;
+	float:right;
 }
 
 #nav_header{
 	list-style-type: none;
-	display: block;
-	float: right;
-	padding-top:15px; 
 	margin: 0;
 }
 
@@ -119,13 +116,6 @@ a{
 
 #menu{
 	list-style-type: none;
-}
-
-#copyright{
-	display:block;
-	float: left;
-	margin: 0;
-	padding: 10px;
 }
 
 #nav_footer{
