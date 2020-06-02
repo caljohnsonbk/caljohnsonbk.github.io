@@ -18,6 +18,7 @@ h2{
 }
 
 a{
+	display: inline-block;
 	text-decoration: none;
 	color: black;
 }
@@ -45,8 +46,7 @@ footer{
 .nav_li{
 	font-size: 1.3em;
 	text-align: center;
-	display: block;
-	float: left;
+	display: inline;
 	text-decoration: none;
 	padding: 10px;
 }
@@ -92,8 +92,9 @@ footer{
 #nav_header{
 	list-style-type: none;
 	margin: 0;
-	display: block;
+	padding: 0;
 	background-color: rgba(179, 179, 179, .7);
+	text-align: center;
 }
 
 #call{
