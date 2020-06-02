@@ -166,9 +166,13 @@ footer{
 	#hero{
 		width: 75%;
 	}
+	#brand{
+		right: 5%
+		top:60%;
+	}
 }
 
-@media only screen and (max-width: 1500px){
+@media only screen and (max-width: 1300px){
 	#hero{
 		width: 80%
 	}
