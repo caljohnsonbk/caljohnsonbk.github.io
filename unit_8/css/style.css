@@ -21,12 +21,13 @@ a{
 footer{
 	position: fixed;
 	bottom: 0;
-	width: 100%
+	width: 100%;
+	background-color: #FFB30D;
 }
 
-.clearfix{
+/*.clearfix{
 	display: block;
-}
+}*/
 
 .clearfix:after{
 	visibility: hidden;
