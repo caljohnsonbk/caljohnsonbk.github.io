@@ -223,6 +223,27 @@ footer{
 		font-size: 2em;
 		padding: 15px;
 	}
+
+	.img_left{
+	float: none;
+	width: 100%;
+	}
+
+	.article_right{
+	float: none;
+	width: 100%;
+	}
+
+	.img_right{
+	float: none;
+	width: 100%;
+	}
+
+	.article_left{
+	float: none;
+	width: 100%;
+	}
+	
 	#hero{
 		width: 100%;
 	}
