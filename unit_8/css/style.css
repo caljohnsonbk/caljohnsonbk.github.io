@@ -3,7 +3,7 @@
 body{
 	background-color: #FFB30D;
 	font-size:18px;
-	font-family: 'Abhaya Libre', serif;
+	font-family: 'Marcellus SC', serif;
 }
 
 main{
@@ -15,6 +15,10 @@ h2{
 	font-family: 'Marcellus SC', serif;
 	font-weight: bold;
 	margin: 0;
+}
+
+p{
+	font-family: 'Abhaya Libre', serif;
 }
 
 a{
@@ -132,6 +136,7 @@ footer{
 
 #menu{
 	list-style-type: none;
+	font-family: 'Abhaya Libre', serif;
 }
 
 #call_footer{
