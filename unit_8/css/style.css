@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Abhaya+Libre|Averia+Serif+Libre:400,700|Julius+Sans+One|Marcellus+SC&display=swap');
 
 body{
-	background-color: #FFB30D;
+	background-color: white;
 	font-size:18px;
 	font-family: 'Marcellus SC', serif;
 }
@@ -14,7 +14,10 @@ h2{
 	text-align: center;
 	font-family: 'Marcellus SC', serif;
 	font-weight: bold;
-	margin: 0;
+	margin: 10px 0 10px 0;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	background-color: #FFB30D;
 }
 
 p{
@@ -101,13 +104,14 @@ footer{
 	text-align: center;
 	border-top: 1px solid black;
 	border-bottom: 1px solid black;
+	background-color: #FFB30D;
 }
 
 #call{
 	text-align: center;
 	font-family: 'Marcellus SC', serif;
 	font-size: 1.5em;
-	background-color: rgb(179, 179, 179, .7);
+	background-color: #FFB30D;
 	border-top: 1px solid black;
     border-bottom: 1px solid black;
     margin: 10px 0 10px 0;
@@ -277,6 +281,8 @@ footer{
 	}
 	#call{
 		font-size: 2.2em;
+		border-top: 1px black solid;
+    	border-bottom: 1px black solid;
 	}
 }
 
