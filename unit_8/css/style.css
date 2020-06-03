@@ -108,7 +108,9 @@ footer{
 	font-family: 'Marcellus SC', serif;
 	font-size: 1.5em;
 	background-color: rgb(179, 179, 179, .7);
-	margin: 0;
+	border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    margin: 10px 0 10px 0;
 }
 
 #homepage{
@@ -216,6 +218,18 @@ footer{
 }
 
 @media only screen and (max-width: 1030px){
+	main{
+		margin-bottom: 100px;
+	}
+
+	#header_brand{
+		font-size: 1.5em;
+	}
+
+	#opening_hours{
+		font-size: .8em;
+	}
+
 	#nav_header{
 		margin: 10px 0 10px 0;
 	}
@@ -231,7 +245,9 @@ footer{
 
 	.article_right{
 	float: none;
-	width: 100%;
+	width: 60%;
+	margin-right: 20%; 
+	margin-left:20%;
 	}
 
 	.img_right{
@@ -241,7 +257,9 @@ footer{
 
 	.article_left{
 	float: none;
-	width: 100%;
+	width: 60%;
+	margin-right: 20%; 
+	margin-left:20%;
 	}
 	
 	#hero{
@@ -258,6 +276,12 @@ footer{
     	background-color: #FFB30D;
 	}
 	#call{
-		font-size: 2em;
+		font-size: 2.2em;
+	}
+}
+
+@media only screen and (max-width: 724px){
+	body{
+		font-size: 14px;
 	}
 }
