@@ -313,6 +313,10 @@ footer{
 }
 
 @media only screen and (max-width: 470px){
+	.nav_li{
+		font-size: 1em;
+		padding: 15px;
+	}
 	#brand{
 		font-size: 1.5em;
 	}
