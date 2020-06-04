@@ -300,6 +300,8 @@ footer{
 	}
 	.article_right, .article_left{
 		width: 100%
+		margin-left: 0%;
+		margin-right: 0%;
 	}
 	#header_brand{
 		font-size: 1.5em;
