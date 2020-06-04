@@ -298,6 +298,9 @@ footer{
 		font-size: 1.2em;
 		padding: 25px;
 	}
+	.article_right, .article_left{
+		width: 100%
+	}
 	#header_brand{
 		font-size: 1.5em;
 	}
@@ -312,6 +315,10 @@ footer{
 @media only screen and (max-width: 470px){
 	#brand{
 		font-size: 1.5em;
+	}
+	#call_footer{
+		font-size: 1.4em;
+		margin-bottom: 5px;
 	}
 	#address{
 		font-size: 1em;
