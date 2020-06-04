@@ -304,6 +304,9 @@ footer{
 	#brand{
 		font-size: 2em;
 	}
+	#call_footer{
+		font-size: 1.8em;
+	}
 }
 
 @media only screen and (max-width: 470px){
