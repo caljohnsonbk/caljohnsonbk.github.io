@@ -299,7 +299,7 @@ footer{
 		padding: 25px;
 	}
 	.article_right, .article_left{
-		width: 100%
+		width: 100%;
 		margin-left: 0%;
 		margin-right: 0%;
 	}
@@ -320,10 +320,10 @@ footer{
 		padding: 15px;
 	}
 	#brand{
-		font-size: 1.5em;
+		font-size: 1.25em;
 	}
 	#call_footer{
-		font-size: 1.4em;
+		font-size: 1.3em;
 		margin-bottom: 5px;
 	}
 	#address{
