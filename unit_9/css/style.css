@@ -7,7 +7,7 @@ body{
 }
 
 main{
-	margin-bottom: 50px;
+	margin-bottom: 10em;
 }
 
 h2{
@@ -83,9 +83,9 @@ footer{
 }
 
 #header_brand{
-	font-size: 1.5em;
+	font-size: 3em;
+	text-align: center;
 	display: block;
-	float:left;
 	margin:0;
 }
 
@@ -129,21 +129,21 @@ footer{
 	margin-right: auto;
 }
 
-#brand{
-	font-family: 'Marcellus SC', serif;
-	text-transform: uppercase;
-	font-weight: bold;
-	font-size: 2.5em;
-	position: absolute;
-	right: 10%;
-	top: 70%;
-	padding: 10px;
-	background-color: rgba(179, 179, 179, .7);
+#ourstory{
+	margin-top: 2em;
+}
+
+#ourfood{
+	margin-top: 2em;
 }
 
 #menu{
 	list-style-type: none;
 	font-family: 'Abhaya Libre', serif;
+}
+
+#contact{
+	margin-top: 2em;
 }
 
 #call_footer{
