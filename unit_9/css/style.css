@@ -166,3 +166,42 @@ footer{
 	margin:0;
 }
 
+@media only screen and (max-width: 1410px){
+	#hero{
+		width: 45%;
+	}
+}
+
+@media only screen and (max-width: 1220px){
+	#hero{
+		width: 50%;
+	}
+}
+
+@media only screen and (max-width: 1100px){
+	#hero{
+		width: 55%;
+	}
+	.article_left, .article_right{
+		margin-top: 3em;
+	}
+}
+
+@media only screen and (max-width: 1020px){
+	body{
+		font-size: 18px;
+	}
+	#hero{
+		width: 60%;
+		margin-top: 3em;
+		margin-bottom: 4em;
+	}
+	.article_right{
+		width: 45%;
+		margin-left: 0;
+	}
+	.article_left{
+		width: 45%;
+		margin-right: 0;
+	}
+}
