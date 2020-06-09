@@ -35,10 +35,6 @@ footer{
 	background-color: white;
 }
 
-/*.clearfix{
-	display: block;
-}*/
-
 .clearfix:after{
 	visibility: hidden;
 	display: block;
@@ -142,6 +138,10 @@ footer{
 	margin-top: 2em;
 }
 
+#contact_details{
+	margin:	3.5em 5em;
+}
+
 #call_footer{
 	font-size: 1.5em;
 	text-align: center;
@@ -167,162 +167,3 @@ footer{
 	margin:0;
 }
 
-@media only screen and (max-width: 1515px) {
-	body{
-		font-size: 16px;
-	}
-	#hero{
-		width: 75%;
-	}
-	#brand{
-		right: 5%
-		top:60%;
-	}
-}
-
-@media only screen and (max-width: 1350px){
-	#opening_hours{
-		font-size: 1.1em;
-	}
-	#hero{
-		width: 80%
-	}
-	.nav_li{
-		font-size: 1.7em;
-	}
-	#call_footer{
-		font-size:1.7em;
-	}
-	#address{
-		font-size: 1.3em;
-	}
-	#copyright{
-		font-size: 1em;
-	}
-}
-
-@media only screen and (max-width: 1220px){
-	.nav_li{
-		padding: 15px;
-	}
-	#header_brand{
-		font-size: 2em;
-	}
-	#hero{
-		width: 95%;
-	}
-	#brand{
-		right: 10%
-		top:60%;
-	}
-}
-
-@media only screen and (max-width: 1030px){
-	main{
-		margin-bottom: 100px;
-	}
-
-	#header_brand{
-		font-size: 1.5em;
-	}
-
-	#opening_hours{
-		font-size: .8em;
-	}
-
-	#nav_header{
-		margin: 10px 0 10px 0;
-	}
-	.nav_li{
-		font-size: 2em;
-		padding: 15px;
-	}
-
-	.img_left{
-	float: none;
-	width: 100%;
-	}
-
-	.article_right{
-	float: none;
-	width: 60%;
-	margin-right: 20%; 
-	margin-left:20%;
-	}
-
-	.img_right{
-	float: none;
-	width: 100%;
-	}
-
-	.article_left{
-	float: none;
-	width: 60%;
-	margin-right: 20%; 
-	margin-left:20%;
-	}
-	
-	#hero{
-		width: 100%;
-	}
-	#brand{
-		position: static;
-		width: 100%
-		margin-top:0;
-		text-align: center;
-		margin: 10px 0 10px 0;
-    	border-top: 1px black solid;
-    	border-bottom: 1px black solid;
-    	background-color: #FFB30D;
-	}
-	#call_footer{
-		font-size: 2.2em;
-	}
-}
-
-@media only screen and (max-width: 724px){
-	body{
-		font-size: 14px;
-	}
-}
-
-@media only screen and (max-width: 570px){
-	.nav_li{
-		font-size: 1.2em;
-		padding: 25px;
-	}
-	.article_right, .article_left{
-		width: 100%;
-		margin-left: 0%;
-		margin-right: 0%;
-	}
-	#header_brand{
-		font-size: 1.5em;
-	}
-	#brand{
-		font-size: 2em;
-	}
-	#call_footer{
-		font-size: 1.8em;
-	}
-}
-
-@media only screen and (max-width: 470px){
-	.nav_li{
-		font-size: 1em;
-		padding: 15px;
-	}
-	#brand{
-		font-size: 1.25em;
-	}
-	#call_footer{
-		font-size: 1.3em;
-		margin-bottom: 5px;
-	}
-	#address{
-		font-size: 1em;
-	}
-	#copyright{
-		font-size: .5em;
-	}
-}
