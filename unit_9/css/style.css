@@ -104,13 +104,6 @@ footer{
 	text-align: center;
 }
 
-#call{
-	text-align: center;
-	font-family: 'Marcellus SC', serif;
-	font-size: 1.5em;
-    margin: 0;
-}
-
 #homepage{
 	position: relative;
 }
@@ -147,7 +140,7 @@ footer{
 #call_footer{
 	font-size: 1.5em;
 	text-align: center;
-    margin: 10px 0 10px 0;
+    margin: 0;
 }
 
 #address{
