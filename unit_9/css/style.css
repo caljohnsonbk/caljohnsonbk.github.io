@@ -55,28 +55,30 @@ footer{
 .img_left{
 	float: left;
 	width: 40%;
-	margin-left: 5em;
+	margin-left: 5%;
 	display: block;
 }
 
 .article_right{
 	float: right;
 	width: 40%;
-	margin: 8em 5em;
+	margin-left:5%;
+	margin-right: 5% 
 	display: block;
 }
 
 .img_right{
 	float: right;
 	width: 40%;
-	margin-right: 5em; 
+	margin-right: 5%; 
 	display: block;
 }
 
 .article_left{
 	float: left;
 	width: 40%;
-	margin: 8em 5em;
+	margin-left:5%;
+	margin-right: 5%
 	display: block;
 }
 
