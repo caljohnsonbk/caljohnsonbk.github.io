@@ -205,3 +205,27 @@ footer{
 		margin-right: 0;
 	}
 }
+
+@media only screen and (max-width: 900px){
+	.nav_li{
+		font-size: 1.5em;
+	}
+	.article_right, .article_left{
+		float: none;
+		width: 70%;
+		margin: 3em auto;
+	}
+	.image_left, .image_right{
+		float: none;
+		width: 45%;
+		margin: 3em auto;
+	}
+	#hero{
+		width: 65%;
+	}
+	#map{
+		width: 80%;
+		margin:3em auto;
+	}
+
+}
