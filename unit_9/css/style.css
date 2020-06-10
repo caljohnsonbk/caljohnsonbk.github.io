@@ -242,7 +242,7 @@ footer{
 		font-size: 1.4em;
 	}
 	#header_brand{
-		font-size: 3em;
+		font-size: 2.7em;
 	}
 	#hero{
 		margin-top: 5em;
@@ -254,5 +254,48 @@ footer{
 	}
 	.img_left, .img_right{
 		margin: 2em auto;
+	}
+}
+
+@media only screen and (max-width: 600px){
+	body{
+		font-size: 16px;
+	}
+	h2{
+		font-size: 1.2em;
+	}
+	p{
+		font-size: 1.1em;
+	}
+	li{
+		font-size: 1.1em;
+	}
+	#nav_header{
+		margin: 1em 0;
+	}
+	.nav_li{
+		font-size: 1.2em;
+		padding: 15px;
+	}
+	#header_brand{
+		font-size: 1.7em;
+	}
+	#hero{
+		width: 100%;
+	}
+	.article_right, .article_left{
+		width: 100%;
+	}
+	.img_left, .img_right{
+		width: 90%
+	}
+	#call_footer{
+		font-size: 1.2em;
+	}
+	#address{
+		font-size: 1em;
+	}
+	#copyright{
+		font-size: .7em;
 	}
 }
