@@ -185,8 +185,14 @@ footer{
 	header{
 		margin-top: 2em;
 	}
+	h2{
+		font-size: 2em;
+	}
 	p{
-		font-size: 1.3em.
+		font-size: 1.5em;
+	}
+	li{
+		font-size: 1.5em;
 	}
 	#header_brand{
 		font-size: 3.5em;
