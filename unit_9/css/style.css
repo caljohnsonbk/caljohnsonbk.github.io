@@ -179,53 +179,41 @@ footer{
 }
 
 @media only screen and (max-width: 1100px){
-	#hero{
-		width: 55%;
-	}
-	.article_left, .article_right{
-		margin-top: 3em;
-	}
-}
-
-@media only screen and (max-width: 1020px){
 	body{
 		font-size: 18px;
 	}
-	#hero{
-		width: 60%;
-		margin-top: 3em;
-		margin-bottom: 4em;
+	header{
+		margin-top: 2em;
 	}
-	.article_right{
-		width: 45%;
-		margin-left: 0;
+	#header_brand{
+		font-size: 3.5em;
 	}
-	.article_left{
-		width: 45%;
-		margin-right: 0;
-	}
-}
-
-@media only screen and (max-width: 900px){
 	.nav_li{
-		font-size: 1.5em;
+		font-size: 2em;
+	}
+	#hero{
+		width: 80%;
+		margin-top: 8em;
+		margin-bottom: 10em;
 	}
 	.article_right, .article_left{
 		float: none;
-		width: 70%;
-		margin: 3em auto;
+		width: 60%;
+		margin: 5em auto;
 	}
 	.img_left, .img_right{
 		float: none;
-		width: 45%;
-		margin: 3em auto;
+		width: 60%;
+		margin: 5em auto;
 	}
-	#hero{
-		width: 65%;
+	#call_footer{
+		font-size: 2em;
 	}
-	#map{
-		width: 80%;
-		margin:3em auto;
+	#address{
+		font-size: 1.5em;
 	}
-
+	#copyright{
+		font-size: 1.2em;
+	}
 }
+
